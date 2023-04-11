@@ -24,8 +24,10 @@ Both the Welcome Message and First Time Player Message options support the {play
 
 **Example Configuration:**
 
-`{  
+```
+{  
   "Welcome Message": "Hi {player\_name}! Welcome back to {server\_name}.",  
   "First Time Player Message": "Hi {player\_name}! Welcome to {server\_name}. Our ruleset is heavily enforced and bans are issued daily. Ignorance is not an excuse, please read the rules and understand them BEFORE you begin playing: example rule url | THANK YOU FOR PLAYING!",  
   "Delay Before Sending Message (seconds)": 5.0  
-}`
+}
+```
