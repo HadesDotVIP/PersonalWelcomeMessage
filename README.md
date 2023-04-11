@@ -1,5 +1,5 @@
 # PersonalWelcomeMessage
-Person Welcome Message plugin for Rust servers using Oxide.
+Personal Welcome Message plugin for Rust servers using Oxide.
 
 # Introduction
 
